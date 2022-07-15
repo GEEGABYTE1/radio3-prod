@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "radio3 production version",
   "main": "./src/module.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GEEGABYTE1/radio3-prod.git"
+  },
   "keywords": [
     "large events",
     "communication",
